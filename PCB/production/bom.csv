@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"S1, S2, S3, S4, S5, S6, S7, S8",MX_PCB_1.00u,8,Keyswitch,
+SW1,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,RotaryEncoder_Switch,
+U1,Arduino_Pro_Micro,1,Arduino_Pro_Micro,
