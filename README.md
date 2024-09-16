@@ -2,6 +2,11 @@
 
 This is a funky looking 8 switch macropad with a rotary encoder in the center. "Inspired" by one of my favourite albums of all time, Nonagon Infinity by King Gizzard and the Lizard Wizard. 
 
+TODO - 
+- Case files
+- Firmware (code and pre-built)
+- Build guide
+
 ## Images 
 
 ### Front
